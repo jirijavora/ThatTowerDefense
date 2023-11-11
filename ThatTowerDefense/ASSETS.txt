@@ -1,0 +1,4 @@
+Content/cannon.fbx - model created from assets provided in the "LowPoly Pirate Props" pack by zisongbr under the CC0 license (https://opengameart.org/content/lowpoly-pirate-props)
+Content/cannon_ball.fbx - model created from assets provided in the "LowPoly Pirate Props" pack by zisongbr under the CC0 license (https://opengameart.org/content/lowpoly-pirate-props)
+Content/palette_flags.psd - color palette provided in the "LowPoly Pirate Props" pack by zisongbr under the CC0 license (https://opengameart.org/content/lowpoly-pirate-props)
+Content/palette_map.psd - color palette provided in the "LowPoly Pirate Props" pack by zisongbr under the CC0 license (https://opengameart.org/content/lowpoly-pirate-props)
